@@ -1,0 +1,14 @@
+<!--pages/profile/profile.wxml-->
+<view class="text">
+<text >姓名：陈俊宇\n</text>  
+<text>求职意向：web前端开发\n</text>
+</view>
+<view class='text2'>
+<text>1.熟练掌握DIV+CSS布局的HTML代码编写，熟练手写符合W3C标准的代码，能够根据交互原型和UI设计图完整制作出网页\n</text>
+<text>2.熟悉Javascript、css3和html5，能熟练运用JQuery框架实现网页常用特效\n</text>
+<text>3.熟练应用dom、xml、json等相关技术\n</text>
+<text>4.熟悉Bootstrap、vue前端框架，了解不同浏览器之间的兼容性\n</text>
+<text>5.熟练使用：photoshop，fireworks等设计软件\n</text>
+<text>6.了解Node和React 等MVC框架以及less、stylus、git等技术和团队协作开发工具\n</text>
+<text>7.了解webpack打包工具和fildder、Paros爬虫工具\n</text>
+</view>
